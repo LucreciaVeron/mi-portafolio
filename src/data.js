@@ -1,6 +1,6 @@
-import apv from './assets/img/apv.png';
-import flappyBirdVegano from './assets/img/flappyBirdVegano.png';
-import cotizador from './assets/img/cotizador.png';
+import apv from './assets/img/apv.PNG';
+import flappyBirdVegano from './assets/img/flappyBirdVegano.PNG';
+import cotizador from './assets/img/cotizador.PNG';
 
 export const myData = {
   name: "Lucrecia Verón",
